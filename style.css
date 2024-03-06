@@ -1,0 +1,89 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+  
+}
+.allContainer{
+    background-color: black;
+}
+
+.--h{
+    color: white;
+}
+
+.--p{
+    color: #848484;
+}
+
+.--p :hover{
+color: white;
+}
+.div-color{
+    background-color: #121212;
+    
+}
+
+.leftDiv ul li{
+
+    font-weight: bold;
+    font-size: 20px;
+    margin-top: 20px;
+    gap: 30px;
+ 
+    list-style-type: none;
+}
+.leftDiv ul  .logo i{
+ font-size: 50px;
+
+}
+.leftDiv ul li i{
+    font-size: 30px;
+      
+}
+.gap{
+    padding-right: 20px;
+      
+}
+.library-group{
+min-height: 77vh;
+position: relative;
+}
+
+.footer{
+  position: absolute;
+    bottom:10px;
+    word-wrap: break-word;
+   
+}
+
+.footer a{
+    text-decoration: none;
+    color: #848484;
+}
+.footer a:hover{
+    text-decoration:underline;
+    color: #848484;
+
+}
+
+
+/* ....................................Rigth div .................... */
+.right-nav{
+    background-color: #121212;
+    padding:10px 0px ;
+   
+    text-align: end;
+}
+.right-nav li{
+
+    list-style: none;
+}
+.right-nav button:nth-child(2){
+    background-color: white;
+    padding: 20px 50px;
+    border-radius:60px;
+    margin-right: 50px;
+}
+   
